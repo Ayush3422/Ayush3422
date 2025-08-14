@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi there, I'm Ayush! 👋
 
-<!--
-**Ayush3422/Ayush3422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate developer who joined GitHub in July 2025 and has been actively contributing to the open source community. I'm interested in exploring cutting-edge technologies and building innovative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Skills
+
+- **Languages:** JavaScript, TypeScript
+- **Specializations:** Quantum Computing, Cryptography, 3D Web Development
+- **Areas of Interest:** Blockchain, Quantum Technologies, Web3
+
+## 📈 GitHub Stats
+
+- 🏆 **Pull Shark Achievement** - Recognized for meaningful contributions
+- 📊 **10 contributions** in the last year
+- 🔱 **3 repositories** and growing
+- 📝 **Active since July 2025**
+
+## 🔭 Current Projects
+
+### [quantum_crypto](https://github.com/Ayush3422/quantum_crypto)
+Exploring quantum cryptography implementations in JavaScript
+
+### [hashhawks-3d-showcase](https://github.com/Ayush3422/hashhawks-3d-showcase)
+3D web development showcase built with TypeScript
+
+## 🌱 What I'm Learning
+
+- Advanced quantum computing algorithms
+- Modern web development frameworks
+- Cryptographic protocols and implementations
+- 3D graphics and interactive web experiences
+
+## 📫 Let's Connect
+
+- 💼 Open to collaborating on exciting projects
+- 🤝 Looking to connect with fellow developers
+- 💡 Interested in quantum computing and web3 technologies
+
+---
+
+*Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate.*
