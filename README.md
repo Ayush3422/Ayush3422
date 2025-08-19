@@ -1,13 +1,16 @@
 # Hi there, I'm Ayush! 👋
 
 ## 🚀 About Me
+
 Welcome to my GitHub profile! I'm a passionate developer who joined GitHub in July 2025 and has been actively contributing to the open source community. I'm interested in exploring cutting-edge technologies and building innovative projects.
 
 ## 🛠️ Technologies & Skills
+
 - **Languages:** JavaScript, TypeScript, HTML, CSS
 - **Areas of Interest:** Blockchain, Quantum Technologies, Web3, Frontend Development
 
 ## 📈 GitHub Stats
+
 - 🏆 **Pull Shark Achievement** - Recognized for meaningful contributions
 - 📊 **10 contributions** in the last year
 - 🔱 **6 repositories** and growing
@@ -31,6 +34,7 @@ JavaScript-based application focusing on innovative user interface solutions and
 Exploring quantum cryptography implementations in JavaScript, combining cutting-edge security concepts with practical applications.
 
 ## 🌱 What I'm Learning
+
 - Advanced quantum computing algorithms
 - Modern web development frameworks
 - Cryptographic protocols and implementations
@@ -38,9 +42,11 @@ Exploring quantum cryptography implementations in JavaScript, combining cutting-
 - Responsive design and accessibility best practices
 
 ## 📫 Let's Connect
+
 - 💼 Open to collaborating on exciting projects
 - 🤝 Looking to connect with fellow developers
 - 💡 Interested in quantum computing and web3 technologies
 
 ---
+
 *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate.*
